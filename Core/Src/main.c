@@ -73,7 +73,6 @@ static void MX_USART2_UART_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-/* USER CODE BEGIN 0 */
 
 static bool EventLogger_Push(uint32_t timestamp_ms)
 {
